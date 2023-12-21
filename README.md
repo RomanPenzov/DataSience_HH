@@ -37,3 +37,6 @@
 ## 5. Контакты
 e-mail: romanpenzov@yandex.ru
 телефон: +7(916)193-93-56
+
+## 6. Графики и диаграммы
+<center> <img src = plotly/Ages_hist.html alt="drawing" style="width:800px;">
