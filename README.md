@@ -39,4 +39,10 @@ e-mail: romanpenzov@yandex.ru
 телефон: +7(916)193-93-56
 
 ## 6. Графики и диаграммы
-<center> <img src = plotly/Ages_hist.html alt="drawing" style="width:800px;">
+[Ссылка на гистограмму](plotly/Ages_hist.html)
+**Гистограмма:**
+<iframe src="plotly/Ages_hist.html" height="600" width="800"></iframe>
+
+[Ссылка на график box](plotly/Ages_box.html)
+**График box:**
+<iframe src="plotly/Ages_box.html" height="600" width="800"></iframe>
